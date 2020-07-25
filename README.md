@@ -11,3 +11,5 @@ download it from there
 
 
 for the nearby app download it from https://drive.google.com/drive/folders/13sgN3SpQUa3S4RgI1iu8Qtug332JDm1o?usp=sharing
+
+for the medical app download it from  https://drive.google.com/drive/folders/1Foo7d_kCOz93bWeCzw1F2_LhfRegQ4hY?usp=sharing
