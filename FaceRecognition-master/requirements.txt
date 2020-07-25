@@ -1,0 +1,14 @@
+Requirements
+
+
+
+MUDULE NEEDED:
+
+1 cv2
+2 os
+3 numpy
+4 facerecongnition
+5 gtts
+
+Run the tester file to get the output
+Make changes in the test image folder and training image folder with your own images
